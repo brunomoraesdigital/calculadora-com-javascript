@@ -1,9 +1,3 @@
-# Calculadora JavaScript
-Calculadora desenvolvida como exemplo do Curso Completo de JavaScript.
-<br>
-link: https://brunomoraesdigital.github.io/calculadora-com-javascript/
-
-
 # Calculadora
 
 Este projeto é uma calculadora desenvolvida como parte do meu aprendizado de JavaScript, HTML e CSS. 
