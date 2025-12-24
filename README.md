@@ -43,8 +43,8 @@ Neste projeto, pratiquei:
 
 Este projeto está licenciado sob a Licença MIT.
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-bmfolio.web.app-F77737?logo=google-chrome)](https://bmfolio.web.app/?utm_source=github&utm_medium=repo_NOME_DO_PROJETO) 
+[![Portfólio](https://img.shields.io/badge/Portfólio-bmfolio.web.app-F77737?logo=google-chrome)](https://bmfolio.web.app/?utm_source=github&utm_medium=repo_calculadora-com-javascript) 
 [![GitHub](https://img.shields.io/badge/GitHub-brunomoraesdigital-181717?logo=github)](https://github.com/brunomoraesdigital) 
-![Última atualização](https://img.shields.io/github/last-commit/brunomoraesdigital/NOME_DO_REPOSITORIO) 
+![Última atualização](https://img.shields.io/github/last-commit/brunomoraesdigital/calculadora-com-javascript) 
 ![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL_3.0-blue.svg) 
-![Visitas](https://visitor-badge.laobi.icu/badge?page_id=brunomoraesdigital.NOME_DO_REPOSITORIO)
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=brunomoraesdigital.calculadora-com-javascript)
